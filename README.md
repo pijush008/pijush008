@@ -1,6 +1,6 @@
 ![logo](https://github.com/pijush008/pijush008/blob/main/SL-103020-37400-03.jpg)
 <h1 align="center">Hi 👋, I'm Pijush Patra</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate fullstack web developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/pijush008/pijush008/blob/main/Screenshot%20from%202024-11-15%2000-44-42.png" />
 
