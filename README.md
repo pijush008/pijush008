@@ -56,6 +56,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pijush008&show_icons=true&locale=en" alt="pijush008" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pijush008&" alt="pijush008" />
-</p>
+
